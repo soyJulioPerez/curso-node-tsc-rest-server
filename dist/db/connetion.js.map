@@ -1,0 +1,1 @@
+{"version":3,"file":"connetion.js","sourceRoot":"","sources":["../../db/connetion.ts"],"names":[],"mappings":";;AAAA,yCAAsC;AAEtC,MAAM,EAAE,GAAG,IAAI,qBAAS,CAAC,gBAAgB,EAAE,MAAM,EAAE,EAAE,EAAE;IACrD,IAAI,EAAE,WAAW;IACjB,OAAO,EAAE,SAAS;IAClB,iBAAiB;CAClB,CAAC,CAAC;AAEH,kBAAe,EAAE,CAAC"}
